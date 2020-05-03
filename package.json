@@ -2,9 +2,9 @@
   "name": "insomnia",
   "private": true,
   "version": "1.0.0",
-  "repository": "https://github.com/kong/insomnia",
+  "repository": "https://github.com/etinin/insomnia",
   "bugs": {
-    "url": "https://github.com/kong/insomnia"
+    "url": "https://github.com/etinin/insomnia"
   },
   "scripts": {
     "lint": "eslint \"**/*.js\" \"**/*.html\" \"**/*.json\"",
